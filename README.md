@@ -18,6 +18,7 @@
 - Системы управления базами данных: MySQL, PostgreSQL;
 - Средства визуализации данных: PowerBi, Metabase.
 
+<iframe src="https://giphy.com/embed/vISmwpBJUNYzukTnVx" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vISmwpBJUNYzukTnVx">via GIPHY</a></p>
   
 ## Проекты
 
